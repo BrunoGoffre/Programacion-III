@@ -1,0 +1,1 @@
+[{"_id":0,"_nombre":"Bruno","_cuatrimestre":"Primero"},{"_id":1,"_nombre":"Rodrigo","_cuatrimestre":"Primero"},{"_id":2,"_nombre":"Ruben","_cuatrimestre":"Segundo"}]

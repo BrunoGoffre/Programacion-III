@@ -1,0 +1,1 @@
+[{"_legajo":"Bruno","_idMateria":"1234","_turno":"Ma\u00f1ana"},{"_legajo":"Bruno","_idMateria":"1234","_turno":"Noche"},{"_legajo":"Bruno","_idMateria":"12345","_turno":"Noche"}]

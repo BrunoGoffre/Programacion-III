@@ -1,0 +1,1 @@
+[{"patente":"BBB 124","color":"rojo","precio":"20000","marca":"Fiat","fecha":"2020"},{"patente":"BBB 125","color":"rojo","precio":"20000","marca":"Fiat","fecha":"2020"},{"patente":"BBB 126","color":"rojo","precio":"20000","marca":"Fiat","fecha":"2020"}]
