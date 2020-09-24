@@ -15,9 +15,9 @@ if (isset($_FILES['archivo']) == 1){
 }
 //Chekear minuto 1:8:00 en clase 15/9 
 //continuar a partir de las 2hs
-function ValidarBites($cantidad){
+function ValidarBites($cantidad,$maximo,$minimo=0){
     $cantidadMB = $cantidad/1000000; 
-    if($cantidadMB < 3.5){
+    if($cantidadMB <= $maximo && $cantidadMB > $minimo ){
         return true;
     }
     else{
